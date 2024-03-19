@@ -1,16 +1,33 @@
-### Hi there 👋
+# Dayane Silva Santana
 
-<!--
-**DaySantana1/DaySantana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Olá! Sou estudante de Sistemas de Informação na FIAP e estou no 5º semestre da graduação.
+## Objetivo Profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco oportunidades que me permitam aplicar minhas habilidades em editoração e web design, bem como minhas habilidades técnicas em HTML, CSS, JavaScript e outras tecnologias relacionadas. Estou interessado em projetos que envolvam a criação de interfaces intuitivas e atraentes, bem como a implementação de layouts responsivos e funcionais.
+
+## Habilidades
+
+- Editoração e tratamento de imagens (Photoshop e Illustrator)
+- Desenvolvimento de Interfaces e Wireframes (Figma, AdobeXD, InDesign e Axure)
+- Edição avançada e tratamento de imagens
+- Desenvolvimento responsivo
+- Manipulação e animação de elementos DOM
+- Experiência do Usuário (UX | UI)
+- Desenvolvimento Front-End (JavaScript, TypeScript, React, HTML e CSS)
+- Desenvolvimento Back-End (Java)
+- Análise e Manipulação de dados (SQL, Power BI)
+
+## Idiomas
+
+- Inglês: Avançado
+- Espanhol: Intermediário
+
+## Contato
+
+- **E-mail:** daysantana0318@gmail.com
+
+## Links
+
+- [LinkedIn](linkedin.com/in/dayane-santana-465b541a3/)
