@@ -1,4 +1,5 @@
 ## Dayane Silva Santana
+[Resume Dayane Santana  EN.pdf](https://github.com/DaySantana1/DaySantana1/files/14695895/Resume.Dayane.Santana.EN.pdf)
 
 ###  Sobre mim
 
