@@ -7,7 +7,10 @@ Olá! Sou estudante de Sistemas de Informação na FIAP e estou no 5º semestre 
 
 ### Objetivo Profissional
 
-Busco oportunidades que me permitam aplicar minhas habilidades em editoração e web design, bem como minhas habilidades técnicas em HTML, CSS, JavaScript e outras tecnologias relacionadas. Estou interessado em projetos que envolvam a criação de interfaces intuitivas e atraentes, bem como a implementação de layouts responsivos e funcionais.
+Estou em busca de oportunidades para trabalhar na criação de protótipos navegáveis, utilizando ferramentas como Adobe XD e Figma. Possuo habilidade em desenvolver interfaces centradas no usuário, destacando-me na criação de experiências digitais envolventes. Meu objetivo é aplicar minhas habilidades em editoração e web design, juntamente com minhas habilidades técnicas em HTML, CSS, JavaScript e outras tecnologias relacionadas.
+
+Estou particularmente interessado em projetos que envolvam a criação de interfaces intuitivas e atraentes, além da implementação de layouts responsivos e funcionais. Estou pronto para contribuir com minha experiência e entusiasmo para garantir que cada projeto atenda às necessidades do usuário de forma eficaz e agradável.
+
 
 ### Habilidades
 
