@@ -1,33 +1,67 @@
-## Dayane Silva Santana
-[Resume Dayane Santana  EN.pdf](https://github.com/DaySantana1/DaySantana1/files/14695895/Resume.Dayane.Santana.EN.pdf)
+## Dayane Silva Santana  
+🎓 Graduanda em Sistemas de Informação | 📊 Foco em Business Intelligence & Data Analytics  
+[Resume Dayane Santana EN.pdf](https://github.com/DaySantana1/DaySantana1/files/14695895/Resume.Dayane.Santana.EN.pdf)
 
-###  Sobre mim
+---
 
-Olá! Sou estudante de Sistemas de Informação na FIAP e estou no 5º semestre da graduação.
+### 📌 Sobre mim
 
-### Objetivo Profissional
+Olá! Sou a Dayane, estudante de Sistemas de Informação na FIAP (7º semestre), apaixonada por dados e com experiência prática em análise, visualização e automação de processos.  
+Atualmente atuo como estagiária de TI com foco em BI na área de saúde, contribuindo com a criação de dashboards gerenciais, relatórios e indicadores estratégicos que apoiam a tomada de decisões.
 
-Estou em busca de oportunidades para trabalhar na criação de protótipos navegáveis, utilizando ferramentas como Adobe XD e Figma. Possuo habilidade em desenvolver interfaces centradas no usuário, destacando-me na criação de experiências digitais envolventes. Meu objetivo é aplicar minhas habilidades em editoração e web design, juntamente com minhas habilidades técnicas em HTML, CSS, JavaScript e outras tecnologias relacionadas.
+Gosto de transformar grandes volumes de dados em insights claros e valiosos. Tenho facilidade com ferramentas como Power BI, SQL, Pandas e Excel, além de experiência com processos de ETL e storytelling com dados.
 
-Estou particularmente interessado em projetos que envolvam a criação de interfaces intuitivas e atraentes, além da implementação de layouts responsivos e funcionais. Estou pronto para contribuir com minha experiência e entusiasmo para garantir que cada projeto atenda às necessidades do usuário de forma eficaz e agradável.
+---
 
+### 🎯 Objetivo Profissional
 
-### Habilidades
+Busco oportunidades como Analista de Dados ou Business Intelligence, onde eu possa aplicar meu conhecimento técnico e visão analítica para melhorar processos, gerar inteligência e apoiar decisões estratégicas baseadas em dados.  
 
-- Editoração e tratamento de imagens (Photoshop e Illustrator)
-- Desenvolvimento de Interfaces e Wireframes (Figma, AdobeXD, InDesign e Axure)
-- Edição avançada e tratamento de imagens
-- Desenvolvimento responsivo
-- Manipulação e animação de elementos DOM
-- Experiência do Usuário (UX | UI)
-- Desenvolvimento Front-End (JavaScript, TypeScript, React, HTML e CSS)
+Tenho interesse especial em projetos que envolvam análise de KPIs, automação de relatórios, visualizações eficazes e melhoria contínua por meio da tecnologia.
 
-### Idiomas
+---
 
-- Inglês: Avançado
-- Espanhol: Intermediário
+### 🧠 Habilidades Técnicas
 
-### Contato
+- 📊 BI & Visualização de Dados:  
+  - Power BI (modelagem, DAX, relatórios interativos)  
+  - Excel Avançado (tabelas dinâmicas, VBA, Power Query)  
+  - Storytelling com dados  
+  - Criação de dashboards para áreas como Saúde, Financeiro e Operações  
 
-- **E-mail:** daysantana0318@gmail.com
-- [LinkedIn](linkedin.com/in/dayane-santana-465b541a3/)
+- 🗄️ Bancos de Dados & ETL:  
+  - SQL (consultas, junções, transformações)  
+  - ETL e modelagem de dados  
+  - BI4H (BI for Health)
+
+- ⚙️ Análise de Dados com Python:  
+  - Pandas (limpeza, transformação, análise exploratória)  
+  - Jupyter Notebooks (documentação e prototipação de análises)  
+  - Scripts para automatização e geração de insights
+
+- ⚙️ Automação & Ferramentas:  
+  - Power Automate  
+  - AppSheet  
+  - Confluence (documentação de processos e sistemas)
+
+- 💻 Desenvolvimento e Tecnologias Complementares:  
+  - HTML, CSS, JavaScript
+
+---
+
+### 🌍 Idiomas
+
+- Inglês: Avançado  
+- Espanhol: Intermediário (em curso)
+
+---
+
+### 📬 Contato
+
+- 📧 E-mail: daysantana0318@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/dayane-santana-465b541a3](https://www.linkedin.com/in/dayane-santana-465b541a3)  
+- 📁 Portfólio de Dados: Em construção – novos projetos em breve no repositório!
+
+---
+
+🚀 Obrigada por visitar meu perfil! Estou aberta a oportunidades e colaborações na área de dados.
