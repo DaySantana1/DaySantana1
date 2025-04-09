@@ -1,6 +1,5 @@
 ## Dayane Silva Santana  
-🎓 Graduanda em Sistemas de Informação | 📊 Foco em Business Intelligence & Data Analytics  
-[Resume Dayane Santana EN.pdf](https://github.com/DaySantana1/DaySantana1/files/14695895/Resume.Dayane.Santana.EN.pdf)
+🎓 Graduanda em Sistemas de Informação | 📊 Foco em Business Intelligence & Data Analytics 
 
 ---
 
@@ -15,8 +14,7 @@ Gosto de transformar grandes volumes de dados em insights claros e valiosos. Ten
 
 ### 🎯 Objetivo Profissional
 
-Busco oportunidades como Analista de Dados ou Business Intelligence, onde eu possa aplicar meu conhecimento técnico e visão analítica para melhorar processos, gerar inteligência e apoiar decisões estratégicas baseadas em dados.  
-
+Aplico meu conhecimento técnico e visão analítica para melhorar processos, gerar inteligência e apoiar decisões estratégicas baseadas em dados, sempre com foco em resultados e melhoria contínua.
 Tenho interesse especial em projetos que envolvam análise de KPIs, automação de relatórios, visualizações eficazes e melhoria contínua por meio da tecnologia.
 
 ---
@@ -60,7 +58,6 @@ Tenho interesse especial em projetos que envolvam análise de KPIs, automação 
 
 - 📧 E-mail: daysantana0318@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/dayane-santana-465b541a3](https://www.linkedin.com/in/dayane-santana-465b541a3)  
-- 📁 Portfólio de Dados: Em construção – novos projetos em breve no repositório!
 
 ---
 
