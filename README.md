@@ -1,9 +1,9 @@
 ## Dayane Silva Santana  
-🎓 Graduanda em Sistemas de Informação | 📊 Foco em Business Intelligence & Data Analytics 
+Graduanda em Sistemas de Informação | Foco em Business Intelligence & Data Analytics 
 
 ---
 
-### 📌 Sobre mim
+###  Sobre mim
 
 Olá! Sou a Dayane, estudante de Sistemas de Informação na FIAP (7º semestre), apaixonada por dados e com experiência prática em análise, visualização e automação de processos.  
 Atualmente atuo como estagiária de TI com foco em BI na área de saúde, contribuindo com a criação de dashboards gerenciais, relatórios e indicadores estratégicos que apoiam a tomada de decisões.
@@ -12,42 +12,42 @@ Gosto de transformar grandes volumes de dados em insights claros e valiosos. Ten
 
 ---
 
-### 🎯 Objetivo Profissional
+###  Objetivo Profissional
 
 Aplico meu conhecimento técnico e visão analítica para melhorar processos, gerar inteligência e apoiar decisões estratégicas baseadas em dados, sempre com foco em resultados e melhoria contínua.
 Tenho interesse especial em projetos que envolvam análise de KPIs, automação de relatórios, visualizações eficazes e melhoria contínua por meio da tecnologia.
 
 ---
 
-### 🧠 Habilidades Técnicas
+###  Habilidades Técnicas
 
-- 📊 BI & Visualização de Dados:  
+-  BI & Visualização de Dados:  
   - Power BI (modelagem, DAX, relatórios interativos)  
   - Excel Avançado (tabelas dinâmicas, VBA, Power Query)  
   - Storytelling com dados  
   - Criação de dashboards para áreas como Saúde, Financeiro e Operações  
 
-- 🗄️ Bancos de Dados & ETL:  
+-  Bancos de Dados & ETL:  
   - SQL (consultas, junções, transformações)  
   - ETL e modelagem de dados  
   - BI4H (BI for Health)
 
-- ⚙️ Análise de Dados com Python:  
+-  Análise de Dados com Python:  
   - Pandas (limpeza, transformação, análise exploratória)  
   - Jupyter Notebooks (documentação e prototipação de análises)  
   - Scripts para automatização e geração de insights
 
-- ⚙️ Automação & Ferramentas:  
+-  Automação & Ferramentas:  
   - Power Automate  
   - AppSheet  
   - Confluence (documentação de processos e sistemas)
 
-- 💻 Desenvolvimento e Tecnologias Complementares:  
+-  Desenvolvimento e Tecnologias Complementares:  
   - HTML, CSS, JavaScript
 
 ---
 
-### 🌍 Idiomas
+###  Idiomas
 
 - Inglês: Avançado  
 - Espanhol: Intermediário (em curso)
